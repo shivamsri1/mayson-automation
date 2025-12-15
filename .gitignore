@@ -1,12 +1,5 @@
-# Python
 __pycache__/
 *.pyc
-
-# Reports
 reports/
-
-# Virtual env
+.env
 .venv/
-
-# Playwright
-.playwright/
